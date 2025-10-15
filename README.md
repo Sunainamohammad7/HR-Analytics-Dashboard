@@ -29,4 +29,4 @@ Key Questions Answered:
 5.What factors might be influencing employee attrition?
 
 Screenshot of Dashboard:https://github.com/Sunainamohammad7/HR-Analytics-Dashboard/blob/main/HR_Analytics_Dashboard.png
-Example:
+Example:https://github.com/Sunainamohammad7/HR-Analytics-Dashboard/blob/main/HR_Analytics_Dashboard.pbit
